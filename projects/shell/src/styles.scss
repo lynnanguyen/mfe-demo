@@ -1,0 +1,48 @@
+/* You can add global styles to this file, and also import other style files */
+
+.center {
+  text-align: center;
+}
+
+.comp-div {
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.menu {
+  display: flex;
+  margin-bottom: 20px;
+
+  a {
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    flex-grow: 1;
+    padding: 20px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+  }
+}
+
+/* Colors */
+.dark-pink {
+  background-color: deeppink;
+}
+
+.green {
+  background-color: green;
+}
+
+.light-pink {
+  background-color: lightpink;
+}
+
+.pink {
+  background-color: hotpink;
+}
+
+.tan {
+  background-color: palegoldenrod;
+}

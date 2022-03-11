@@ -1,0 +1,19 @@
+.center {
+  text-align: center;
+}
+
+.grid {
+  display: flex;
+  margin-bottom: 20px;
+
+  a {
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    flex-grow: 1;
+    padding: 20px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+  }
+}
